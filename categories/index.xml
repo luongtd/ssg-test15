@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Minimo</title>
-    <link>http://www.example.com/categories/</link>
+    <link>https://luongtd.github.io/ssg-test15/categories/</link>
     <description>Recent content in Categories on Minimo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 12 Aug 2018 12:30:00 +0600</lastBuildDate><atom:link href="http://www.example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Aug 2018 12:30:00 +0600</lastBuildDate><atom:link href="https://luongtd.github.io/ssg-test15/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>features</title>
-      <link>http://www.example.com/categories/features/</link>
+      <link>https://luongtd.github.io/ssg-test15/categories/features/</link>
       <pubDate>Sun, 12 Aug 2018 12:30:00 +0600</pubDate>
       
-      <guid>http://www.example.com/categories/features/</guid>
+      <guid>https://luongtd.github.io/ssg-test15/categories/features/</guid>
       <description></description>
     </item>
     
     <item>
       <title>others</title>
-      <link>http://www.example.com/categories/others/</link>
+      <link>https://luongtd.github.io/ssg-test15/categories/others/</link>
       <pubDate>Mon, 25 Sep 2017 08:00:00 +0600</pubDate>
       
-      <guid>http://www.example.com/categories/others/</guid>
+      <guid>https://luongtd.github.io/ssg-test15/categories/others/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tutorial</title>
-      <link>http://www.example.com/categories/tutorial/</link>
+      <link>https://luongtd.github.io/ssg-test15/categories/tutorial/</link>
       <pubDate>Mon, 25 Sep 2017 06:00:00 +0600</pubDate>
       
-      <guid>http://www.example.com/categories/tutorial/</guid>
+      <guid>https://luongtd.github.io/ssg-test15/categories/tutorial/</guid>
       <description></description>
     </item>
     

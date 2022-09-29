@@ -2,151 +2,151 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.example.com/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/</loc>
     <lastmod>2022-09-22T18:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/docs/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/docs/</loc>
     <lastmod>2022-09-22T18:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/typography/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/typography/</loc>
     <lastmod>2017-09-28T08:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/about/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/about/</loc>
   </url><url>
-    <loc>http://www.example.com/archive/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/archive/</loc>
     <lastmod>2022-09-17T18:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/page/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/page/</loc>
     <lastmod>2022-09-17T18:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/authors/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/authors/</loc>
     <lastmod>2022-09-22T18:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/categories/</loc>
     <lastmod>2022-09-22T18:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/config/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/tags/config/</loc>
     <lastmod>2022-09-22T18:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/categories/features/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/categories/features/</loc>
     <lastmod>2022-09-22T18:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/katex/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/tags/katex/</loc>
     <lastmod>2019-07-07T02:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/docs/katex-support/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/docs/katex-support/</loc>
     <lastmod>2019-07-07T02:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/authors/muniftanjim/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/authors/muniftanjim/</loc>
     <lastmod>2022-09-22T18:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/tags/</loc>
     <lastmod>2022-09-22T18:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/fuse.js/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/tags/fuse.js/</loc>
     <lastmod>2018-07-20T20:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/search/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/tags/search/</loc>
     <lastmod>2018-07-20T20:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/docs/search-fuse-js/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/docs/search-fuse-js/</loc>
     <lastmod>2018-07-20T20:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/algolia/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/tags/algolia/</loc>
     <lastmod>2018-07-05T23:30:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/docs/search-algolia/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/docs/search-algolia/</loc>
     <lastmod>2018-07-05T23:30:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/lunr.js/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/tags/lunr.js/</loc>
     <lastmod>2018-07-05T20:30:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/docs/search-lunr-js/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/docs/search-lunr-js/</loc>
     <lastmod>2018-07-05T20:30:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/docs/search-support/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/docs/search-support/</loc>
     <lastmod>2018-07-06T01:30:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/docs/comments-support/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/docs/comments-support/</loc>
     <lastmod>2020-08-10T22:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/docs/emoji-support/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/docs/emoji-support/</loc>
     <lastmod>2018-02-27T21:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/docs/mathjax-support/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/docs/mathjax-support/</loc>
     <lastmod>2019-09-28T21:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/docs/sidebar/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/docs/sidebar/</loc>
     <lastmod>2018-03-29T05:20:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/widgets/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/tags/widgets/</loc>
     <lastmod>2022-09-22T18:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/docs/widgets/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/docs/widgets/</loc>
     <lastmod>2022-09-22T18:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/shortcode/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/tags/shortcode/</loc>
     <lastmod>2020-10-06T02:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/docs/shortcodes/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/docs/shortcodes/</loc>
     <lastmod>2020-10-06T02:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/docs/cover-image/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/docs/cover-image/</loc>
     <lastmod>2018-06-04T23:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/i18n/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/tags/i18n/</loc>
     <lastmod>2017-09-27T14:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/translation/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/tags/translation/</loc>
     <lastmod>2017-09-27T14:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/docs/translation/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/docs/translation/</loc>
     <lastmod>2017-09-27T14:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/chroma/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/tags/chroma/</loc>
     <lastmod>2017-09-27T12:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/pygments/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/tags/pygments/</loc>
     <lastmod>2017-09-27T12:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/docs/syntax-highlighting/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/docs/syntax-highlighting/</loc>
     <lastmod>2017-09-27T12:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/menus/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/tags/menus/</loc>
     <lastmod>2018-05-24T02:10:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/docs/menus/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/docs/menus/</loc>
     <lastmod>2018-05-24T02:10:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/og/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/tags/og/</loc>
     <lastmod>2017-10-11T18:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/docs/opengraph/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/docs/opengraph/</loc>
     <lastmod>2017-10-11T18:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/authors/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/tags/authors/</loc>
     <lastmod>2017-10-11T17:30:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/docs/authors/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/docs/authors/</loc>
     <lastmod>2017-10-11T17:30:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/docs/config-file/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/docs/config-file/</loc>
     <lastmod>2018-02-08T15:15:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/categories/others/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/categories/others/</loc>
     <lastmod>2018-02-08T15:15:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/categories/tutorial/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/categories/tutorial/</loc>
     <lastmod>2018-02-08T15:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/docs/updating/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/docs/updating/</loc>
     <lastmod>2018-02-08T14:45:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/docs/installation/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/docs/installation/</loc>
     <lastmod>2018-02-08T15:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/search/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/search/</loc>
   </url><url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>https://luongtd.github.io/ssg-test15/series/</loc>
   </url>
 </urlset>
