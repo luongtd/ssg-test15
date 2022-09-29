@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>fuse.js on Minimo</title>
-    <link>https://luongtd.github.io/ssg-test15/tags/fuse.js/</link>
+    <link>https://luongtd151.tk/tags/fuse.js/</link>
     <description>Recent content in fuse.js on Minimo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 06 Jul 2018 01:00:00 +0600</lastBuildDate><atom:link href="https://luongtd.github.io/ssg-test15/tags/fuse.js/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Jul 2018 01:00:00 +0600</lastBuildDate><atom:link href="https://luongtd151.tk/tags/fuse.js/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Search: Fuse.js</title>
-      <link>https://luongtd.github.io/ssg-test15/docs/search-fuse-js/</link>
+      <link>https://luongtd151.tk/docs/search-fuse-js/</link>
       <pubDate>Fri, 06 Jul 2018 01:00:00 +0600</pubDate>
       
-      <guid>https://luongtd.github.io/ssg-test15/docs/search-fuse-js/</guid>
+      <guid>https://luongtd151.tk/docs/search-fuse-js/</guid>
       <description>Configure Fuse.js Search Client Select Fuse.js as the search client in your config.toml file:
 [params.search] client = &amp;#34;fuse&amp;#34; </description>
     </item>
